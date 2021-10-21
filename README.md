@@ -1,2 +1,2 @@
 # Mark-8
-Created with CodeSandbox
+This app will tell the fruits name after clicking on the picture of different fruits.
